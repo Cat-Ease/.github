@@ -1,6 +1,7 @@
 # CAT EASE 
 <div align="center">
-<img src="/logo capstone.png" width="50%" height="50%" >
+<img src="![logo capstone](https://github.com/user-attachments/assets/6843c96e-4f31-49ca-9a65-427de56c28df)
+" width="50%" height="50%" >
 </div>
 
 
