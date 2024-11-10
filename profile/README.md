@@ -1,6 +1,6 @@
 # CAT EASE 
 <div align="center">
-<img src="(https://github.com/user-attachments/assets/6843c96e-4f31-49ca-9a65-427de56c28df)" width="50%" height="50%" >
+<img src="https://github.com/Cat-Ease/.github/blob/main/profile/logo%20capstone.png" width="50%" height="50%" >
 </div>
 
 
