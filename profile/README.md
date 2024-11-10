@@ -5,7 +5,7 @@
 
 
 ## About
-
+With the increasing number of cat owners around the world, effective cat health management remains a challenge, mainly due to limited access to specialised veterinary care and difficulty in recognising early signs of illness. Our project, Cat Ease, is a mobile app designed specifically for cat owners. The app focuses on detecting skin diseases in cats through image analysis, which can help cat owners get easy-to-understand health information and quick access to related resources.
 
 ## Team Member :
 
