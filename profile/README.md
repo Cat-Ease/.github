@@ -1,6 +1,6 @@
 # CAT EASE 
 <div align="center">
-<img src="" width="50%" height="50%" >
+<img src="profile/logo capstone.png" width="50%" height="50%" >
 </div>
 
 
