@@ -24,7 +24,7 @@ With the increasing number of cat owners around the world, effective cat health 
 | :----------------: | :----------------------------------------------------------------: |
 | Mobile Development | [Github](https://github.com/Cat-Ease/Mobile-Development) |
 |  Cloud Computing  | [Github](https://github.com/Cat-Ease/Cloud-Computing)  |
-|   Machine Learning  | [Github](https://github.com/Cat-Ease/Cloud-Computing)  |
+|   Machine Learning  | [Github](https://github.com/Cat-Ease/Machine-Learning)  |
 
 ## Project Documents
 - Project Plan : https://drive.google.com/file/d/1ZwSNGDbFyVcJdAIG4ls0cQSOcC3SaDDj/view?usp=sharing
