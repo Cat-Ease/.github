@@ -22,7 +22,7 @@ With the increasing number of cat owners around the world, effective cat health 
 ## Repositories
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Mobile Development | [Github](https://github.com/Cat-Ease/Mobile-Development) |
+| Mobile Development | [Github](https://github.com/Cat-Ease/Mobile-Development/tree/Mobile-Development) |
 |  Cloud Computing  | [Github](https://github.com/Cat-Ease/Cloud-Computing)  |
 |   Machine Learning  | [Github](https://github.com/Cat-Ease/Machine-Learning)  |
 
